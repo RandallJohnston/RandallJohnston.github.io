@@ -10,4 +10,4 @@ Camera Effects
 
 This is my Camera Effects Project.
 
-![picture_title](https://github.com/RandallJohnston/RandallJohnston.github.io/blob/master/Meme.png?raw=true "Optional Title")
+![Randall](https://github.com/RandallJohnston/RandallJohnston.github.io/blob/master/Randall.PNG?raw=true "Optional Title")
